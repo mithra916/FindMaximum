@@ -38,8 +38,10 @@ def max_marks(marks):
 ```
 
 ## Output:
-![output](/img%201.png)
-![ouput](/img%202.png)
-![output](/img%203.png)
+![output](/sort.png)
+
+![output](/max.png)
+
+![output](/built%20in.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
